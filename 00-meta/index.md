@@ -25,7 +25,8 @@
 | Section | Path | Description |
 |---|---|---|
 | README | `01-reading-log/README.md` | Format convention, how to log papers |
-| Daily entries | `01-reading-log/YYYY-MM-DD.md` | Daily reading log (agents append here) |
+| **Reading Log** | `01-reading-log/Reading-Log.md` | Research scout's paper reading log (migrated 2026-04-29) |
+| **Technique Registry** | `01-reading-log/Technique-Registry.md` | Accumulated techniques from nexus cycles (migrated 2026-04-29) |
 | Paper notes | `01-reading-log/paper-notes/` | Per-paper deep notes |
 
 ---
@@ -44,7 +45,9 @@
 |---|---|
 | Papers | `02-research/papers/` |
 | Experiments | `02-research/experiments/` |
-| Nexus | `02-research/nexus/` |
+| **Nexus** | `02-research/Nexus/` — Weekly technique syntheses (migrated 2026-04-29) |
+| **Byte-Level Tokenization** | `02-research/Byte-Level-Tokenization/` — Research topic (migrated 2026-04-29) |
+| **African NLP** | `02-research/African-NLP/` — African NLP paper bank (migrated 2026-04-29) |
 
 ---
 
@@ -60,9 +63,19 @@
 ---
 
 ## 04 — Projects
-- `04-projects/` — App/project notes and specs
+| Section | Path |
+|---|---|
+| `04-projects/` | App/project notes and specs |
+| **PesaTrack** | `04-projects/PesaTrack/` — Finance tracker MVP (migrated 2026-04-29) |
+| **V01 Finance Tracker** | `04-projects/V01-Finance-Tracker/` — Venture context (migrated 2026-04-29) |
+| **V02 Food Tracker** | `04-projects/V02-Food-Tracker/` — Venture context (migrated 2026-04-29) |
 
 ---
+
+## Journal / Daily
+| Section | Path |
+|---|---|
+| Daily entries | `Journal/Daily/YYYY-MM-DD.md` — Knowledge agent daily runs (migrated 2026-04-29) |
 
 ## 05 — Learning
 | Section | Path |
@@ -71,6 +84,12 @@
 | Courses | `05-learning/courses/` |
 
 ---
+
+## Planning
+| Section | Path |
+|---|---|
+| Weekly plans | `Planning/Weekly/` — Weekly planning docs (migrated 2026-04-29) |
+| Briefings | `Planning/Briefings/` — Morning briefing docs (migrated 2026-04-29) |
 
 ## 06 — Career
 | Section | Path |
