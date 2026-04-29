@@ -11,13 +11,15 @@ tags: [vault, meta, identity, teddy]
 ## Background
 
 ### Education
-> [Fill in: degree(s), institution(s), graduation year(s)]
+- **MS EAI** @ Carnegie Mellon University Africa — GPA 3.88 (2023–2025)
+- **BS CPE** @ Addis Ababa University (AAU) — GPA 3.69, graduated with great distinction
 
 ### Work History
-> [Fill in: positions, companies/institutions, years]
+- **Research Associate** @ CMU Africa (as of 2025)
+- **ML Research Assistant** @ Language Technologies Institute (LTI), CMU
 
 ### Research Areas
-> [Fill in: primary research interests — e.g., NLP, ML, AI]
+Multilingual NLP · Low-resource languages · Vision-Language Model (VLM) reasoning · Retrieval-Augmented Generation (RAG) · Cross-lingual representation learning
 
 ### Stack
 - **Research:** Python (ML/research)
@@ -25,7 +27,15 @@ tags: [vault, meta, identity, teddy]
 
 ## Current State
 
-> [What Teddy is doing right now — active projects, current research focus, pending deadlines]
+- Research Associate @ CMU Africa + ML Research Assistant @ LTI, CMU (2025)
+- Active research: multilingual NLP, low-resource languages, VLM reasoning, RAG, cross-lingual representation
+- LREC-RAIL 2026 paper accepted (camera-ready done)
+- Seeking PhD positions (target: top NLP/ML programs, 2025–2026 cycle)
+
+## Key Achievements
+- **Publication:** ColBERT QA paper @ IEEE GLOBECOM 2024
+- **Award:** Winner — ITU AI/ML in 5G Challenge
+- **Award:** Mastercard Foundation Scholar
 
 ## Research Interests
 
