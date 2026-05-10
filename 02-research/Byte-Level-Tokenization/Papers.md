@@ -80,3 +80,15 @@ Last updated: 2026-04-15
 - **Topics**: byte-level-autoregressive, megabyte-model, tokenization-alternative
 - **Abstract**: Prior work on byte-level autoregressive modeling; mentioned in SpaceByte as requiring 10x FLOPs vs subword.
 - **Notes**: Historical reference. Not primary source — SpaceByte cites it as the baseline inefficiency problem.
+
+---
+
+### [mutant] MUTANT: A Recipe for Multilingual Tokenizer Design
+- **Authors**: Souvik Rana, Arul Menezes, Ashish Kulkarni, Chandra Khatri, Shubham Agarwal
+- **Venue**: arXiv:2511.03237 (COLM submission, v2 March 2026)
+- **URL**: https://arxiv.org/abs/2511.03237
+- **Citations**: N/A (recent)
+- **Status**: discovered
+- **Topics**: tokenization, multilingual-nlp, low-resource-languages, vocabulary-design, fertility-score, indic-languages
+- **Abstract**: Presents MUTANT, a recipe for building multilingual tokenizers with careful vocabulary design, language-aware pre-tokenization, and subword/multiword aware training. MUTANT-Indic achieves 39.5% better fertility vs LLaMA4 and 18% vs Sutra, with 44% inference throughput improvement.
+- **Notes**: Addresses fertility directly — same metric as Token Tax paper (Lundin et al., AfricaNLP 2026) for African languages. Language-aware pre-tokenization is complementary to byte-level approaches.
